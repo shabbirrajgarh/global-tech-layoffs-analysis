@@ -8,7 +8,7 @@ An interactive enterprise-grade Tableau data analytics platform engineered to is
 ---
 
 ## 🖥️ Dashboard Architecture
-![Global Tech Layoffs Dashboard](dashboard_screenshot.png)
+![Global Tech Layoffs Dashboard](Screenshot%202026-07-04%20182516.png)
 
 ---
 
